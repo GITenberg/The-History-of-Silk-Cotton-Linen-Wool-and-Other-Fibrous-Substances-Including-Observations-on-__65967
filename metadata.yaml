@@ -1,11 +1,16 @@
 _repo: The-History-of-Silk-Cotton-Linen-Wool-and-Other-Fibrous-Substances-Including-Observations-on-__65967
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65967-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilroy, Clinton G.
     gutenberg_agent_id: '53570'
     url: http://www.gutenberg.org/2009/agents/53570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65967#The-History-of-Silk-Cotton-Linen-Wool-and-Other-Fibrous-Substances-Including-Observations-on-_
 gutenberg_issued: '2021-07-31'
 gutenberg_type: Text
 identifiers:
